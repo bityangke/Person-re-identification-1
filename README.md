@@ -4,4 +4,4 @@
 
 ---
 
-* [1. 基础知识](Person-re-identification/1.基础知识.md)
+* [1. 基础知识](./1.基础知识.md)
